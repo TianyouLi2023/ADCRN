@@ -12,9 +12,9 @@ Interactive audio demonstrations are available at:
 ---
 
 ### Abstract  
-Binaural reproduction (BR) on head-mounted devices (HMDs) transforms multi-microphone recordings into binaural signals. Conventional binaural signal matching (BSM) methods predict reproduction filters from predefined source distributions but suffer from degradation under mismatched configurations. Recent DNN-based BR approaches improve content accuracy and spatial fidelity, yet their heavy computational and parameter demands hinder deployment on resource-limited HMDs, and their effectiveness in such contexts remains insufficiently studied.  
+Binaural reproduction (BR) on head-mounted devices (HMDs) converts microphone recordings into binaural signals. Conventional binaural signal matching (BSM) predicts BR filters based on predefined source distributions, but suffers from performance degradation under mismatched configurations. Recent deep neural network (DNN)-based BR approaches have shown advances in content accuracy and spatial fidelity. However, their high computational and parameter demands hinder lightweight deployment, and their effectiveness on HMDs remains unexplored. 
 
-This repository presents **ADCRN (Attention-enhanced Dual-path Convolutional Recurrent Network)**, a lightweight neural architecture featuring a dual-path recurrent bottleneck for temporal–spectral modeling and efficient channel attention for cross-channel recalibration. Evaluations on simulated datasets derived from AR-glasses microphone arrays demonstrate that ADCRN achieves **state-of-the-art performance** in both objective and subjective assessments, with significantly reduced parameters and computational complexity.
+This repository proposes a lightweight Attention-enhanced Dual-path Convolutional Recurrent Network (ADCRN), featuring a dual-path recurrent bottleneck for temporal–spectral modeling and efficient channel attention modules for cross-channel feature recalibration. Experiments on simulated datasets from microphone arrays mounted on augmented reality glasses show that ADCRN achieves state-of-the-art performance on both objective metrics and subjective evaluations, outperforming BSM and prior DNN-based BR models with fewer parameters and lower computational complexity. 
 
 ---
 
