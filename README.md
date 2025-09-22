@@ -6,7 +6,7 @@ Tianyou Li\*, Xiaobin Rong\*, Junjie Shi†, Huiyuan Sun†, Xiaohuai Le†, Chu
 ---
 
 ### Demo Page  
-Interactive audio demonstrations are available at:  
+Audio samples for the MUSHRA evaluation are available at:  
 👉 [https://adcrn-icassp-demo.netlify.app/](https://adcrn-icassp-demo.netlify.app/)
 
 ---
