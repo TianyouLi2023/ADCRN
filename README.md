@@ -1,6 +1,6 @@
 # ADCRN: A Lightweight Neural Network for Binaural Reproduction on Head-Mounted Devices
 
-**Tianyou Li\***, **Xiaobin Rong\***, Junjie Shi†, Huiyuan Sun†, Xiaohuai Le†, Chuanzeng Huang†, Jing Lu\*  
+Tianyou Li\*, Xiaobin Rong\*, Junjie Shi†, Huiyuan Sun†, Xiaohuai Le†, Chuanzeng Huang†, Jing Lu\*  
 \* Key Laboratory of Modern Acoustics, Nanjing University · † ByteDance  
 
 ---
